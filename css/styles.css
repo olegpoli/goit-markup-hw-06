@@ -788,12 +788,7 @@ transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
   display: block;
   } 
 
-textarea { 
-  /* resize: vertical;
-  
-  min-height: 150px;
-max-height: 200px; */
- }
+
 
 textarea { 
   /* resize: vertical;
